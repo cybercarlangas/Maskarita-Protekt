@@ -1,5 +1,6 @@
 body{
     background-color: aquamarine;
+    font-family: 'Raleway', sans-serif;
     }
     .pollo{
         width: 30%;
@@ -111,4 +112,27 @@ align-items:center;
 .aplicar-detalles img{
 height: 90%;
 
+}
+.contenedor1{
+    display:flex;
+}
+.col1-contenedor1{
+    width: 30%;
+
+}
+.col2-contenedor1{
+width: 15%;padding: right 30px; ;
+}
+.col3-contenedor1{
+widows: 35%;padding-right: 25px;
+text-align: right;
+}
+.contenedor-2{
+    background-color: midnightblue;
+    justify-content: center;
+    height: 100px;
+    color: oldlace;
+    display:flex;
+    align-items: center;
+    font-size:34px;
 }
